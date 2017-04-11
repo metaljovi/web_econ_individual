@@ -1,5 +1,6 @@
 COMPGW02: Web Economics Project - Individual Report
-Fajar Maulana Putra
+
+[Fajar Maulana Putra]
 
 This is the github repo for my Individual Part of Web Economy Cousework
 There are several files here, here's the description : 
